@@ -13,5 +13,10 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: sdf
+  type: image_gallery
+  config: {}
+  label: sdf
+  description: galaxy
 pages:
 - portfolio/index.md
