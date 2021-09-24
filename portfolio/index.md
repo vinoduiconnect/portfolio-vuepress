@@ -6,7 +6,9 @@ title: Hero
 sdf:
 - "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 - "/upload/0516-0.jpg"
-sdf_images: []
+sdf_images:
+- "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+- "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
