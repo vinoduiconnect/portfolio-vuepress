@@ -18,5 +18,13 @@ fields:
   config: {}
   label: sdf
   description: galaxy
+- name: menu1
+  type: blocks
+  label: menu1
+  template_types:
+  - home
+  config:
+    min: 
+    max: 
 pages:
 - portfolio/index.md

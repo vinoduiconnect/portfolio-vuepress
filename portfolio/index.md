@@ -11,8 +11,16 @@ sdf_images:
 - "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 - "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 home: ''
+menu1:
+- template: home
+  home: ''
+  hero_text: ''
+  sdf_images: []
+  menu1: []
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
 
 ***
+
+<WorksList />
