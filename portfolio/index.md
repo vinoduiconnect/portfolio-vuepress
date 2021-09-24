@@ -4,8 +4,10 @@ hero_text: "<strong>We're UICONNECT</strong>, we work for brands. But most impor
   we work for fun and."
 title: Hero
 sdf:
-- "/upload/0516-0.jpg"
 - "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+- "/upload/0516-0.jpg"
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
+
+<SDF />
