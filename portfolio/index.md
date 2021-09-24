@@ -1,7 +1,7 @@
 ---
 works_index: true
 hero_text: "<strong>We're UICONNECT</strong>, we work for brands. But most importantly,
-  we work for fun."
+  we work for fun and."
 title: Hero
 
 ---
