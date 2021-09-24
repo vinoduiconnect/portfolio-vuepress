@@ -13,7 +13,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: sdf
+- name: sdf_images
   type: image_gallery
   config: {}
   label: sdf
