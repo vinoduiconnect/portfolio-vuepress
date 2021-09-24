@@ -12,4 +12,4 @@ sdf_images:
 - "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 
 ---
-<Hero :text="$page.frontmatter.hero_text" /
+<Hero :text="$page.frontmatter.hero_text" />
