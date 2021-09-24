@@ -9,7 +9,3 @@ title: Hero
 <WorksList />
 
 <JournalList />
-
-    
-
-* Sowcase
