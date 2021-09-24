@@ -3,8 +3,8 @@ label: Homepage
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: home
+  label: Home
   hidden: true
 - type: textarea
   name: hero_text
